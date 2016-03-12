@@ -1,5 +1,5 @@
 describe("WebLogger", function () {
-	var webLogger = require("../../lib/WebLogger.js");
+	var webLogger = require("../../src/webLogger.js");
 	var assert = require("assert");
 
 	var adapterMock = {

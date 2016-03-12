@@ -1,6 +1,6 @@
 describe("SemanticLogger", () => {
-	var webLogger = require("../../lib/WebLogger.js");
-	var baseLogger = require("../../lib/SemanticLogger.js");
+	var webLogger = require("../../src/webLogger.js");
+	var baseLogger = require("../../src/semanticLogger.js");
 	var info = baseLogger.info;
 	var debug = baseLogger.debug;
 	var warn = baseLogger.warn;
@@ -254,7 +254,7 @@ describe("SemanticLogger", () => {
 
 				expect(checkLevel).toBe("error");
 				expect(checkFunctionName).toBe("testThisError");
-				expect(checkMeta.details[0]).toBe("bad error" );
+				expect(checkMeta.details).toBe("bad error" );
 			});
 		});
 	});

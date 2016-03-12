@@ -1,6 +1,6 @@
 describe("SemanticLogger", () => {
-	var webLogger = require("../../lib/WebLogger.js");
-	var baseLogger = require("../../lib/SemanticLogger.js");
+	var webLogger = require("../../src/webLogger.js");
+	var baseLogger = require("../../src/semanticLogger.js");
 	var info = baseLogger.info;
 	var debug = baseLogger.debug;
 	var warn = baseLogger.warn;
