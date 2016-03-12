@@ -9,14 +9,14 @@ class SemanticLogger {
 function debugDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
 		let log = new webLogger.WebLogger(this.request);
-		log.debug(name);
+		log.debug(name, args);
 	};
 }
 
 function verboseDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
 		let log = new webLogger.WebLogger(this.request);
-		log.verbose(name);
+		log.verbose(name, args);
 	};
 }
 
@@ -30,7 +30,7 @@ function infoDecorator (target, name, descriptor) {
 function warnDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
 		let log = new webLogger.WebLogger(this.request);
-		log.warn(name);
+		log.warn(name, args);
 	};
 }
 

@@ -94,7 +94,7 @@ class WebLogger {
 		this.attachRequest(meta);
 
 		if (typeof err !== "undefined") {
-			meta.details = err;
+			meta.details = err.toString()
 		}
 
 		_adapter.log("error", message, meta);
