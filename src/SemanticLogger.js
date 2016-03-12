@@ -9,35 +9,45 @@ class SemanticLogger {
 function debugDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
 		let log = new webLogger.WebLogger(this.request);
-		log.debug(name, args);
+		var targetName = target.constructor.name;
+
+		log.debug(targetName + '.' + name, args);
 	};
 }
 
 function verboseDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
 		let log = new webLogger.WebLogger(this.request);
-		log.verbose(name, args);
+		var targetName = target.constructor.name;
+
+		log.verbose(targetName + '.' + name, args);
 	};
 }
 
 function infoDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
 		let log = new webLogger.WebLogger(this.request);
-		log.info(name, args);
+		var targetName = target.constructor.name;
+
+		log.info(targetName + '.' + name, args);
 	};
 }
 
 function warnDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
 		let log = new webLogger.WebLogger(this.request);
-		log.warn(name, args);
+		var targetName = target.constructor.name;
+
+		log.warn(targetName + '.' + name, args);
 	};
 }
 
 function errorDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
 		let log = new webLogger.WebLogger(this.request);
-		log.error(name, args);
+		var targetName = target.constructor.name;
+
+		log.error(targetName + '.' + name, args);
 	};
 }
 

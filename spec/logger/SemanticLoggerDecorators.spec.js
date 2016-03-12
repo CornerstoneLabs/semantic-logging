@@ -141,7 +141,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisWarn();
 
 				expect(checkLevel).toBe("warn");
-				expect(checkFunctionName).toBe("testThisWarn");
+				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisWarn");
 			});
 		});
 	});
@@ -184,7 +184,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisVerbose();
 
 				expect(checkLevel).toBe("verbose");
-				expect(checkFunctionName).toBe("testThisVerbose");
+				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisVerbose");
 			});
 		});
 	});
@@ -227,7 +227,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisError();
 
 				expect(checkLevel).toBe("error");
-				expect(checkFunctionName).toBe("testThisError");
+				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisError");
 			});
 
 			it("should log additional error data", () => {
@@ -253,7 +253,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisError("bad error");
 
 				expect(checkLevel).toBe("error");
-				expect(checkFunctionName).toBe("testThisError");
+				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisError");
 				expect(checkMeta.details).toBe("bad error" );
 			});
 		});
@@ -297,7 +297,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisInfo();
 
 				expect(checkLevel).toBe("info");
-				expect(checkFunctionName).toBe("testThisInfo");
+				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisInfo");
 			});
 
 			it("should log additional info data", () => {
@@ -323,7 +323,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisInfo("info 0", "info 1");
 
 				expect(checkLevel).toBe("info");
-				expect(checkFunctionName).toBe("testThisInfo");
+				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisInfo");
 				expect(checkMeta[0]).toBe("info 0" );
 				expect(checkMeta[1]).toBe("info 1" );
 			});
@@ -368,7 +368,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisDebug();
 
 				expect(checkLevel).toBe("debug");
-				expect(checkFunctionName).toBe("testThisDebug");
+				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisDebug");
 			});
 		});
 	});
