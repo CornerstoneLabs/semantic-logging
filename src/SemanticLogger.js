@@ -1,4 +1,4 @@
-var webLogger = require("./WebLogger.js");
+var webLogger = require("./webLogger.js");
 
 class SemanticLogger {
 	constructor (request) {
