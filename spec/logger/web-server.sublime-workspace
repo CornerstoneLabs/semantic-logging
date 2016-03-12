@@ -1,0 +1,2100 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"adap",
+				"adapterMock"
+			],
+			[
+				"addMar",
+				"addMarkerToMap"
+			],
+			[
+				"mar",
+				"margin: "
+			],
+			[
+				"padd",
+				"padding-left: "
+			],
+			[
+				"erro",
+				"errorCallback"
+			],
+			[
+				"onMouse",
+				"onMouseMoveThen"
+			],
+			[
+				"use",
+				"useLocalstorage"
+			],
+			[
+				"over",
+				"overflow-y: "
+			],
+			[
+				"manager",
+				"managerParams"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"background-",
+				"background-image: "
+			],
+			[
+				"bac",
+				"background-color: "
+			],
+			[
+				"border",
+				"border-bottom: "
+			],
+			[
+				"margin",
+				"margin-top: "
+			],
+			[
+				"load",
+				"loadArticlesEnabled"
+			],
+			[
+				"loadH",
+				"loadHerosEnabled"
+			],
+			[
+				"team",
+				"teamFeedIds"
+			],
+			[
+				"$win",
+				"$windowElement"
+			],
+			[
+				"tokenif",
+				"tokenifyUrl"
+			],
+			[
+				"strip",
+				"stripAuthorization"
+			],
+			[
+				"keywor",
+				"keywordsHighlightService"
+			],
+			[
+				"high",
+				"highlightHtml"
+			],
+			[
+				"keywords",
+				"keywordsHighlight"
+			],
+			[
+				"backgrou",
+				"background-color: "
+			],
+			[
+				"back",
+				"background: "
+			],
+			[
+				"backgr",
+				"background: "
+			],
+			[
+				"err",
+				"errorTemplate"
+			],
+			[
+				"tok",
+				"tokenifyBody"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"embed",
+				"embedImageIntoEditor"
+			],
+			[
+				"addTo",
+				"addToken"
+			],
+			[
+				"addToken",
+				"addTokenToUrl"
+			],
+			[
+				"sta",
+				"startSkillsExplorer"
+			],
+			[
+				"inject",
+				"injectSize"
+			],
+			[
+				"new",
+				"newUrl"
+			],
+			[
+				"feedArti",
+				"feedArticlesTransformResponse"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"feed",
+				"feedArticles"
+			],
+			[
+				"max-",
+				"max-width: "
+			],
+			[
+				"show",
+				"showSearchControls"
+			],
+			[
+				"check",
+				"checkVpn"
+			],
+			[
+				"repos",
+				"repositionDropdown"
+			],
+			[
+				"dro",
+				"dropdownElement"
+			],
+			[
+				"dropd",
+				"dropdownElement"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"applica",
+				"applicationName"
+			],
+			[
+				"context",
+				"contextNavigationStructure"
+			],
+			[
+				"match",
+				"matchRoute"
+			],
+			[
+				"text",
+				"text-align: "
+			],
+			[
+				"attach",
+				"attachedFileRemove"
+			],
+			[
+				"reply",
+				"replyToId"
+			],
+			[
+				"parent",
+				"parentCommentId"
+			],
+			[
+				"remove",
+				"removeComment"
+			],
+			[
+				"coun",
+				"countComments"
+			],
+			[
+				"getCom",
+				"getCommentsFail"
+			],
+			[
+				"empl",
+				"employeeResults"
+			],
+			[
+				"managers",
+				"managershistory"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"employee",
+				"employeeMax"
+			],
+			[
+				"text-ec",
+				"text-decoration: "
+			],
+			[
+				"photo",
+				"photoDataGet"
+			],
+			[
+				"padding",
+				"padding-bottom: "
+			],
+			[
+				"border-",
+				"border-radius	Compass"
+			],
+			[
+				"resultsD",
+				"resultDataService"
+			],
+			[
+				"selected",
+				"selectedSkill"
+			],
+			[
+				"virtua",
+				"virtualGrade"
+			],
+			[
+				"virtual",
+				"virtualGradeDate"
+			],
+			[
+				"nee",
+				"needsSkillsExplorer"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"select",
+				"selectedFunction"
+			],
+			[
+				"read",
+				"read_buffer"
+			],
+			[
+				"generate",
+				"generate_list_command"
+			],
+			[
+				"comparison",
+				"comparisonId"
+			],
+			[
+				"tra",
+				"transformToLine"
+			],
+			[
+				"comp",
+				"comparisonId"
+			],
+			[
+				"start",
+				"startComparison"
+			],
+			[
+				"srt",
+				"startComparison"
+			],
+			[
+				"quest",
+				"questionnaireControllerBase"
+			],
+			[
+				"emplo",
+				"employeeId"
+			],
+			[
+				"function",
+				"functionChanged"
+			],
+			[
+				"funct",
+				"functionName"
+			],
+			[
+				"click",
+				"clickTrack"
+			],
+			[
+				"elem",
+				"elementValue"
+			],
+			[
+				"final",
+				"finalised"
+			],
+			[
+				"userData",
+				"userDataGet"
+			],
+			[
+				"reject",
+				"rejected"
+			],
+			[
+				"succes",
+				"successfulUser"
+			],
+			[
+				"userDat",
+				"userDataGet"
+			],
+			[
+				"merge",
+				"mergeMaster"
+			],
+			[
+				"merg",
+				"mergeMaster"
+			],
+			[
+				"direct",
+				"directReportIDs"
+			],
+			[
+				"transformSear",
+				"transformSearchObjective"
+			],
+			[
+				"ob",
+				"objectiveId"
+			],
+			[
+				"transormsear",
+				"transformSearchObjective"
+			],
+			[
+				"map",
+				"mapUser"
+			],
+			[
+				"pro",
+				"promises"
+			],
+			[
+				"_load",
+				"_loadingPromises"
+			],
+			[
+				"_",
+				"_loading"
+			],
+			[
+				"notif",
+				"notification"
+			],
+			[
+				"works",
+				"workspaces"
+			],
+			[
+				"attac",
+				"attachedFiles"
+			],
+			[
+				"curre",
+				"currentUserEntity"
+			],
+			[
+				"wat",
+				"watchers"
+			],
+			[
+				"get",
+				"getUsers"
+			],
+			[
+				"field",
+				"fieldOrComment"
+			],
+			[
+				"fied",
+				"fieldOrComment"
+			],
+			[
+				"posit",
+				"_positionCache"
+			],
+			[
+				"initi",
+				"initialZoom"
+			],
+			[
+				"translate",
+				"translateZ	Compass"
+			],
+			[
+				"dolo",
+				"doLoginProcess"
+			],
+			[
+				"tile",
+				"tileLayer"
+			],
+			[
+				"polyg",
+				"polygonLoad"
+			],
+			[
+				"poly",
+				"polygons"
+			],
+			[
+				"lat",
+				"latlngs"
+			],
+			[
+				"auth",
+				"authenticationRows"
+			],
+			[
+				"account",
+				"accountNumber"
+			],
+			[
+				"accoun",
+				"accountNumber"
+			],
+			[
+				"accou",
+				"accountNumber"
+			],
+			[
+				"acou",
+				"accountNumber"
+			],
+			[
+				"acc",
+				"accountNumber"
+			],
+			[
+				"animal",
+				"animalExists"
+			],
+			[
+				"fi",
+				"filteredList"
+			],
+			[
+				"gt",
+				"getData"
+			],
+			[
+				"event",
+				"eventdate"
+			],
+			[
+				"defaul",
+				"defaultOptions"
+			],
+			[
+				"dayClick",
+				"dayClickCallback"
+			],
+			[
+				"dayClic",
+				"dayClickCallback"
+			],
+			[
+				"eventCli",
+				"eventClickCallback"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "WebLogger.spec.js",
+			"settings":
+			{
+				"buffer_size": 3616,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "wall",
+		"selected_items":
+		[
+			[
+				"wall",
+				"Wallaby.js: Start"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"walla",
+				"Wallaby.js: Show Uncovered Regions"
+			],
+			[
+				"wallaby",
+				"Wallaby.js: Toggle Tests View"
+			],
+			[
+				"w",
+				"Wallaby.js: Start"
+			],
+			[
+				"wa",
+				"Wallaby.js: Show Uncovered Regions"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"wal",
+				"Wallaby.js: Start"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"wallab",
+				"Wallaby.js: Start"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Stash"
+			],
+			[
+				"pyflake",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git chke",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git check",
+				"Git: Checkout"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git puish",
+				"Legit: Publish"
+			],
+			[
+				"git statua",
+				"Git: Stash Include Untracked"
+			],
+			[
+				"git stau",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push ",
+				"Git: Push"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"GIT BA",
+				"Git: Blame"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"git pust",
+				"Git: Push Current Branch"
+			],
+			[
+				"git checkout",
+				"Git: Checkout"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"GIT PUSH",
+				"Git: Push"
+			],
+			[
+				"git lo",
+				"Git: Quick Log Current File"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git checko",
+				"Git: Checkout"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git sttus",
+				"Git: Status"
+			],
+			[
+				"git staut",
+				"Git: Status"
+			],
+			[
+				"git sts",
+				"Git: Status"
+			],
+			[
+				"git stt",
+				"Git: Status"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"codeinte",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"disable",
+				"AngularJS: Toggle - Disable All Completions"
+			],
+			[
+				"disable p",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"index",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"git stsa",
+				"Git: Stash"
+			],
+			[
+				"git push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"git branch",
+				"Git: Push Current Branch"
+			],
+			[
+				"git qu",
+				"Git: Quick Log Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"git add ciu",
+				"Git: Add Current File"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git add cut",
+				"Git: Add Current File"
+			],
+			[
+				"git add curr",
+				"Git: Add Current File"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git stash",
+				"Git: Stash"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"git status ",
+				"Git: Status"
+			],
+			[
+				"GIT STATU",
+				"Git: Status"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"stash",
+				"Git: Stash"
+			],
+			[
+				"git stas",
+				"Git: Stash"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jsli",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"js",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"jshint",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			],
+			[
+				"Git:Stat",
+				"Git: Status"
+			],
+			[
+				"Git: status",
+				"Git: Status"
+			],
+			[
+				"Git: Status",
+				"Git: Status"
+			],
+			[
+				"eva",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"eval",
+				"Worksheet: Evaluate worksheet"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adamauckland/Web/farmhand-web/web-server",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/diagnostic",
+		"/Users/adamauckland/Web/farmhand-web/web-server/spec",
+		"/Users/adamauckland/Web/farmhand-web/web-server/spec/logger"
+	],
+	"file_history":
+	[
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/diagnostic/Logger.js",
+		"/Users/adamauckland/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/adamauckland/Web/farmhand-web/web-server/spec/logger/Logger.spec.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/web-server.sublime-project",
+		"/Users/adamauckland/Web/farmhand-web/web-server/.eslintrc.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/.gitignore",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/servers/express.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/app-bootstrap.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/actions/photoPostAction.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/package.json",
+		"/Users/adamauckland/Web/farmhand-web/web-server/wallaby.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/diagnostic/BaseLogger.js",
+		"/Users/adamauckland/Library/Application Support/Sublime Text 3/Packages/Wallaby/Wallaby.sublime-settings",
+		"/Users/adamauckland/Library/Application Support/Sublime Text 3/Packages/User/Wallaby.sublime-settings",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/actions/messagePostAction.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/actions/audioPostAction.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/actions/messageGetAction.js",
+		"/Users/adamauckland/Desktop/wallaby-node-babel/package.json",
+		"/Users/adamauckland/Web/farmhand-web/web-server/.babelrc",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/data-mappers/Calendar.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/authentication/stormpath.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/actions/audioGetAction.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/diagnostic/WinstonAdapter.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/diagnostic/MessageGetLogger.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/index.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/middleware.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/test.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/data-mappers/GenericMapper.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/notifications/socketioManager.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/messages/messagePostAction.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/messages/photoPostAction.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/sass/main.scss",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/home/home.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/fields/fields.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/index.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/home/home.controller.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/routes.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/fields/fields.controller.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/app.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/autogenerated/compiled-templates.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/login/logging-in.controller.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/app.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/models/Log.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/application/routes/views/message.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/bower_components/stormpath-sdk-angularjs/dist/stormpath-sdk-angularjs.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/bower_components/angular-gravatar/build/angular-gravatar.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/passwordReset/passwordReset.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/login/login.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/login/login-form.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/passwordResetRequest/passwordResetRequest.controller.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/passwordReset/passwordReset.controller.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/main/base.controller.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/login/login.controller.js",
+		"/Users/adamauckland/Downloads/mapbox-maki-5739063/www/maki-sprite.css",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/login/logging-in.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/passwordResetRequest/passwordResetRequest.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/sass/components/_screen-header.scss",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/passwordResetRequest/password-reset-request-form.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/register/register-form.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/filter/filter.controller.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/config.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/http/authentication.interceptor.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/gruntfile.js",
+		"/Users/adamauckland/Web/farmhand-web/web-server/makefile",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/register/register.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/templates/email-verification/email-verification.html",
+		"/Users/adamauckland/Web/farmhand-web/web-client/bower.json",
+		"/Users/adamauckland/Desktop/farmhand.io/css/style.css",
+		"/Users/adamauckland/Web/farmhand-web/web-server/Gruntfile.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/bower_components/bootstrap/dist/css/bootstrap.min.css",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/sass/_bootstrap.scss",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/css/styles.css",
+		"/Users/adamauckland/Downloads/mapbox-maki-5739063/www/maki-sprite.json",
+		"/Users/adamauckland/Downloads/mapbox-maki-5739063/www/maki.json",
+		"/Users/adamauckland/Downloads/mapbox-maki-5739063/www/site.js",
+		"/Users/adamauckland/Downloads/mapbox-maki-5739063/README.markdown",
+		"/Users/adamauckland/Downloads/mapbox-maki-5739063/www/maki.js",
+		"/Users/adamauckland/Web/farmhand-web/web-client/src/app/controllers/main/main.controller.js",
+		"/Users/adamauckland/Desktop/connect-everything.svg",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks_tests/test_roombeacon.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/tests.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/views.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/serializers.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/routers.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/models.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/migrations/0002_auto_20150928_0748.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/test/tests.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/admin.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/availability.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/migrations/0001_initial.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks/viewsets.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/settings.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/test/__init__.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/models.py",
+		"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/test/test_models.py",
+		"/Users/adamauckland/Web/three/pdt/App/intranet/home/main.html",
+		"/Users/adamauckland/Web/three/pdt/reports/coverage/PhantomJS 1.9.8 (Mac OS X 0.0.0)/app/objective/objective.model.js.html",
+		"/Users/adamauckland/Web/three/pdt/App/index.html",
+		"/Users/adamauckland/Web/three/pdt/App/app/localstorage.service.js",
+		"/Users/adamauckland/Web/three/pdt/App/intranet/news/preview/news.preview.controller.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/notification/notification.popover-interactions.service.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/app.activedirectory.config.js",
+		"/Users/adamauckland/Web/three/pdt/reports/coverage/PhantomJS 1.9.8 (Mac OS X 0.0.0)/app/cache/tinycache.service.js.html",
+		"/Users/adamauckland/Web/three/pdt/App/app/questions/questions.dataservice.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/layout/comments/comment.html",
+		"/Users/adamauckland/Web/three/pdt/App/app/layout/cards/objective.html",
+		"/Users/adamauckland/Web/three/pdt/App/app/results/results.dataservice.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/skills/skills.dataservice.js",
+		"/Users/adamauckland/Web/three/pdt/App/skills-explorer/compare/comparison.results.controller.js",
+		"/Users/adamauckland/Web/three/pdt/App/skills-explorer/results/results.controller.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/objective/objective.model.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/layout/error-popover/error-popover.html",
+		"/Users/adamauckland/Web/three/pdt/App/performance-review/controllers/feedback/colleagueFeedbackServices.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/widgets/error-popover/errorPopover.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/user/user.name.directive.js",
+		"/Users/adamauckland/Web/three/pdt/App/performance-review/views/objective/edit.html",
+		"/Users/adamauckland/Web/three/pdt/App/performance-review/services/objectiveService.js",
+		"/Users/adamauckland/Web/three/pdt/App/skills-explorer/questionnaire/start.controller.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/main/main.controller.js",
+		"/Users/adamauckland/Web/three/pdt/App/content/sass/page/objective/_objective-home.scss",
+		"/Users/adamauckland/Web/three/pdt/App/skills-explorer/results/main-new.html",
+		"/Users/adamauckland/Web/three/pdt/App/content/sass/skillsexplorer/_skills-explorer-home.scss",
+		"/Users/adamauckland/Web/three/pdt/App/performance-review/controllers/quarterControllerServices.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/objective/objective.service.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/comments/comments.directive.js",
+		"/Users/adamauckland/Web/three/pdt/App/test/spec/questions/questions.dataservice.spec.js",
+		"/Users/adamauckland/Web/three/pdt/App/app/results-compare/results-compare.dataservice.js",
+		"/Users/adamauckland/Web/three/pdt/App/intranet/home/home.controller.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+			"/Users/adamauckland/Web/farmhand-web/web-client/src/app",
+			"/Users/adamauckland/Web/farmhand-web/web-server/application",
+			"/Users/adamauckland/Web/farmhand-web/web-client/",
+			"/Users/adamauckland/Web/farmhand-web/web-client/src/templates",
+			"/Users/adamauckland/Web/farmhand-web",
+			"/Users/adamauckland/Web/farmhand.io",
+			"/Users/adamauckland/Desktop/farmhand.io",
+			"/Users/adamauckland/Web/farmhand-web/web-client/src",
+			"/Users/adamauckland/Web/farmhand-web/web-server/",
+			"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks_tests",
+			"/Users/adamauckland/Web/22North/hautedesk/python-web-server/app/freedata/freedata/desks",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/skills-explorer",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review/controllers",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/intranet",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/intranet",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/intranet",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/intranet/",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec",
+			"/Users/adamauckland/Web/three/pdt/App/intranet",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/intranet",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec/objective",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review",
+			"/Users/adamauckland/Web/three/pdt/App/performane-review",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review/",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review/views",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review/views/objective",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review",
+			"/Users/adamauckland/Web/three/pdt/App/content",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content/sass",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/app/notification",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/performance-review",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/intranet",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content",
+			"/Users/adamauckland/Web/three/pdt/App/contents",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/App/content/",
+			"/Users/adamauckland/Web/three/pdt/App/contents/",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content/sass",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec/objective",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content/sass",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec",
+			"/Users/adamauckland/Web/three/pdt/",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec/objective",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec/",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec/objective",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App/content/sass",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/app",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content/sass",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content/sass",
+			"/Users/adamauckland/Web/three/pdt/App",
+			"/Users/adamauckland/Web/three/pdt/App/content/sass",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content/sass",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/test/spec/notification",
+			"/Users/adamauckland/Web/three/pdt/App/",
+			"/Users/adamauckland/Web/three/pdt/App/content"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"logger",
+			"'",
+			"adapter",
+			"'",
+			"stormpathConfig",
+			"babel",
+			"'",
+			");\n",
+			"===",
+			"'",
+			"authenticationMiddleware",
+			"'",
+			"console.log",
+			"handleFile",
+			"'",
+			"photo",
+			"$q",
+			"log",
+			"Logger",
+			"$q.def",
+			"addMarkerToMap",
+			"coordinates",
+			"addMessage",
+			"location",
+			"coordinates",
+			"grava",
+			"addMessage",
+			"storeMarker",
+			"h3",
+			"user-control--cont",
+			"sourcesa",
+			"geolocation",
+			"form-control control-label",
+			"Free?",
+			"/me",
+			"95.85.10.77",
+			"60",
+			"'",
+			"free",
+			"constant",
+			"maki",
+			"#",
+			"test",
+			"color",
+			"newMarker",
+			"featureAt",
+			"feature",
+			"\"",
+			"data",
+			"\"",
+			"'",
+			"authenticateApiRequest",
+			"4.2",
+			"ValidationError",
+			"room",
+			"Room",
+			"room",
+			"Room",
+			"room",
+			"Room",
+			"room",
+			"hideSlideshow",
+			"getArticlesHandler",
+			"class=\"feed-item__team\"",
+			"newsFeed",
+			"class=\"feed-item__team\"",
+			"/intranet/",
+			"/intranet/news/:",
+			".owner-stripe",
+			"(data.news.teams !== null) && (data.news.teams.length !== 0)",
+			"tinycache",
+			"$cache.",
+			".feedArticles",
+			"getArticles",
+			".getArticles",
+			"/news/articles",
+			"objectiveData",
+			"hidden-sm",
+			"ErrorPopoverManager.add",
+			".add",
+			"fail",
+			"ErrorPopoverManager.add",
+			"list",
+			"creatorUserId",
+			"POST",
+			".error-popover--top-button-bar",
+			"row error-popover--top-button-bar",
+			"errorpo",
+			"getResults",
+			"resolve",
+			"ErrorPopoverManager.",
+			"ErrorPopoverManager.de",
+			"ErrorPopover",
+			"getArticles",
+			"articles/",
+			"https://cdnjs.cloudflare.com/ajax/libs",
+			"firstname",
+			"employee",
+			".skills-explorer-ho",
+			".objective-home",
+			"last Skills Explorer done",
+			"(data.viewUser.id) && (data.viewUser.id !== user.id)",
+			"ErrorPopoverManager.add",
+			"approveObject",
+			"approve",
+			"isDeleted",
+			"removeComment",
+			"allowDelete",
+			"$scope.allowDelete",
+			"errorCorrelationId",
+			"mailto",
+			"showErrorPopover",
+			"'ErrorPopoverManager",
+			"ErrorPopoverManager",
+			"255",
+			"$vader:",
+			"28px",
+			"$small",
+			"small",
+			".error-lightbox",
+			"Sorry, there's been a problem.",
+			"(objective, function(response) {\n                            var key = 'objectives/' + objective.ownerId;\n                            var cache = listCache(key);\n\n                            if (angular.isDefined(cache)) {\n                                listCache(key)\n                                    .replace(function(testItem) {\n                                        return (testItem.id === response.id);\n                                    }, response);\n                            }\n\n                            deferred.reject(response);\n                        }, function(error) {\n                            deferred.reject(error);\n                        });",
+			"query",
+			"generateDisabled",
+			"expireOffsetSeconds",
+			"config",
+			"width",
+			"isManager"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"desk",
+			"Desk",
+			"desk",
+			"",
+			"$scope.alertsList.popupList",
+			"pageLoadTimes",
+			"'",
+			"scope.selectedIndex",
+			"scope.visible",
+			"scope",
+			"LogService.log(",
+			"\"",
+			"sessionData",
+			"MapObjectTag",
+			"ObjectTag",
+			"MapObjectType",
+			"ObjectType",
+			"MenuCategory",
+			"AnimalType",
+			"AssetType",
+			"Asset",
+			"templateUrl: './partials/",
+			"var url = domain + ",
+			"log(",
+			"judgesName\njudge",
+			"Place",
+			"controls.datePickers",
+			"'",
+			"show",
+			"\"",
+			"//",
+			"'",
+			"lookupVenue",
+			"log",
+			"http://www.adamauckland.com/static/layout/images/content/gravatar_100.jpg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "WebLogger.spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"at_wb_tests_view": false,
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 104.0
+	},
+	"output.git-commit":
+	{
+		"height": 96.0
+	},
+	"output.git-pull":
+	{
+		"height": 165.0
+	},
+	"output.git-push":
+	{
+		"height": 23.0
+	},
+	"output.wallabyjs":
+	{
+		"height": 159.0
+	},
+	"output.wallabyjs_console":
+	{
+		"height": 364.0
+	},
+	"pinned_build_system": "",
+	"project": "web-server.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"home.",
+				"farmhand-web/web-client/src/templates/home/home.html"
+			],
+			[
+				"grunt",
+				"web-server/Gruntfile.js"
+			],
+			[
+				"bower_components/bootstrap/dist/css/bootstrap.min.css",
+				"farmhand-web/web-client/bower_components/bootstrap/dist/css/bootstrap.min.css"
+			],
+			[
+				"intranethomecontroller",
+				"App/intranet/home/home.controller.js"
+			],
+			[
+				"newsfeed",
+				"App/app/layout/newsfeed.html"
+			],
+			[
+				"intranet/news/main",
+				"App/intranet/news/main/main.html"
+			],
+			[
+				"ntranet/home/main.html",
+				"App/intranet/home/main.html"
+			],
+			[
+				"intranetnewsviewcontroller",
+				"App/intranet/news/news.view.controller.js"
+			],
+			[
+				"skils-explorer-home",
+				"App/content/sass/skillsexplorer/_skills-explorer-home.scss"
+			],
+			[
+				"index.html",
+				"App/index.html"
+			],
+			[
+				"news.service.spec.js",
+				"App/test/spec/news/news.service.spec.js"
+			],
+			[
+				"intranet-news/news.manager.service.spec.js",
+				"App/test/spec/intranet-news/news.manager.service.spec.js"
+			],
+			[
+				"localst",
+				"App/app/localstorage.service.js"
+			],
+			[
+				"local",
+				"App/app/localstorage.service.js"
+			],
+			[
+				"tinycac",
+				"reports/coverage/PhantomJS 1.9.8 (Mac OS X 0.0.0)/app/cache/tinycache.service.js.html"
+			],
+			[
+				"error",
+				"App/app/layout/error-popover/error-popover.html"
+			],
+			[
+				"",
+				"App/app/notification/notification.popover-interactions.service.js"
+			],
+			[
+				"index",
+				"App/index.html"
+			],
+			[
+				"usern",
+				"App/app/user/user.name.directive.js"
+			],
+			[
+				"edit",
+				"App/performance-review/views/objective/edit.html"
+			],
+			[
+				"objectivemodel",
+				"App/app/objective/objective.model.js"
+			],
+			[
+				"objective",
+				"reports/coverage/PhantomJS 1.9.8 (Mac OS X 0.0.0)/app/objective/objective.model.js.html"
+			],
+			[
+				"skillsdataservice",
+				"App/app/skills/skills.dataservice.js"
+			],
+			[
+				"resultdataservice",
+				"App/app/results/results.dataservice.js"
+			],
+			[
+				"objectiveserv",
+				"App/app/objective/objective.service.js"
+			],
+			[
+				"objectiveservice",
+				"App/performance-review/services/objectiveService.js"
+			],
+			[
+				"questionsdataservice",
+				"App/test/spec/questions/questions.dataservice.spec.js"
+			],
+			[
+				"resultcomparedataservice",
+				"App/app/results-compare/results-compare.dataservice.js"
+			],
+			[
+				"newsmanager",
+				"App/app/news/news.manager.service.js"
+			],
+			[
+				"usercontr",
+				"App/skills-explorer/questionnaire/start.controller.js"
+			],
+			[
+				"maincontr",
+				"App/app/main/main.controller.js"
+			],
+			[
+				"_obj",
+				"App/content/sass/page/objective/_objective-home.scss"
+			],
+			[
+				"_objective-",
+				"App/.sass-cache/ef90b9b0cdb4ef33580d3362f2ac1298ee77bf2a/_objective-home.scssc"
+			],
+			[
+				"main-new",
+				"App/skills-explorer/results/main-new.html"
+			],
+			[
+				"home-card",
+				"App/performance-review/views/home-card.html"
+			],
+			[
+				"objectiveser",
+				"App/performance-review/services/objectiveService.js"
+			],
+			[
+				"-card",
+				"App/performance-review/views/home-card.html"
+			],
+			[
+				"quarter",
+				"App/performance-review/controllers/quarterControllerServices.js"
+			],
+			[
+				"adal",
+				"App/scripts/azure-activedirectory-library-for-js/lib/adal.js"
+			],
+			[
+				"_card",
+				"App/content/sass/objects/_card.scss"
+			],
+			[
+				"tabbed-objec",
+				"App/performance-review/views/tabbed-objectives/view.html"
+			],
+			[
+				"homecard",
+				"App/performance-review/views/home-card.html"
+			],
+			[
+				"mainc",
+				"App/app/main/main.controller.js"
+			],
+			[
+				"app/layout/employees.html",
+				"App/app/layout/employees.html"
+			],
+			[
+				"header",
+				"App/app/layout/header.html"
+			],
+			[
+				"gruntf",
+				"App/Gruntfile.js"
+			],
+			[
+				"userboot",
+				"App/app/main/main.user-bootstrap.js"
+			],
+			[
+				"archivedlist",
+				"App/performance-review/views/objective/archivedList-card.html"
+			],
+			[
+				"tabbed-ob",
+				"App/performance-review/views/tabbed-objectives/view.html"
+			],
+			[
+				"card",
+				"App/performance-review/views/home-card.html"
+			],
+			[
+				"archived-",
+				"App/performance-review/views/archived-card.html"
+			],
+			[
+				"quarterservices",
+				"App/performance-review/controllers/quarterControllerServices.js"
+			],
+			[
+				"_objective-edit",
+				"App/content/sass/page/objective/_objective-edit.scss"
+			],
+			[
+				"_objective",
+				"App/content/sass/page/objective/_objective-home.scss"
+			],
+			[
+				"_vp",
+				"App/content/sass/page/_vpn.scss"
+			],
+			[
+				"view",
+				"App/performance-review/views/objective/view.html"
+			],
+			[
+				"edit.htm",
+				"App/performance-review/views/objective/edit.html"
+			],
+			[
+				"index.",
+				"App/index.html"
+			],
+			[
+				"cardhtml",
+				"App/performance-review/views/home-card.html"
+			],
+			[
+				"performance-review/views/home-card.html",
+				"App/performance-review/views/home-card.html"
+			],
+			[
+				"newsmodel",
+				"App/app/news/news.model.js"
+			],
+			[
+				"objective.s",
+				"App/app/objective/objective.service.js"
+			],
+			[
+				"objectivescss",
+				"App/content/sass/page/objective/_objective-home.scss"
+			],
+			[
+				"directreportsspec",
+				"App/test/spec/direct-reports/direct-reports.controller.spec.js"
+			],
+			[
+				"directreportslo",
+				"App/app/direct-reports/direct-reports.loader.js"
+			],
+			[
+				"direct-reports.helper.service.spec.js",
+				"App/test/spec/direct-reports/direct-reports.helper.service.spec.js"
+			],
+			[
+				"directreporte",
+				"App/app/direct-reports/direct-reports.helper.service.js"
+			],
+			[
+				"performance-review/views/tabbed-objectives/view.html",
+				"App/performance-review/views/tabbed-objectives/view.html"
+			],
+			[
+				"_card.scs",
+				"App/content/sass/objects/_card.scss"
+			],
+			[
+				"supporting-fileget",
+				"App/app/layout/cards/supporting-file-get.html"
+			],
+			[
+				"supportingfile.html",
+				"App/app/layout/cards/supporting-file-upload.html"
+			],
+			[
+				"supporting-file.html",
+				"App/app/layout/cards/supporting-file-get.html"
+			],
+			[
+				"feedback.scss",
+				"App/content/sass/pageelements/_feedback.scss"
+			],
+			[
+				"uploadfile.servie",
+				"App/app/upload/uploadfile.service.js"
+			],
+			[
+				"card.scss",
+				"App/content/sass/branding/_striped-row.scss"
+			],
+			[
+				"intranet/home/main.html",
+				"App/intranet/home/main.html"
+			],
+			[
+				"intranet.con",
+				"App/intranet/intranet.config.js"
+			],
+			[
+				"app.conf",
+				"App/app/app.config.js"
+			],
+			[
+				"intranet/feed/main.html",
+				"App/intranet/feed/main.html"
+			],
+			[
+				"intranetfeedcontroller",
+				"App/intranet/feed/feed.controller.js"
+			],
+			[
+				"ome.controller.spec.js",
+				"App/test/spec/intranet-home/home.controller.spec.js"
+			],
+			[
+				"_sli",
+				"App/content/sass/objects/_slideshow.scss"
+			],
+			[
+				"intranet/news/main.html",
+				"App/intranet/news/main.html"
+			],
+			[
+				"feed.scss",
+				"App/content/sass/intranet/_feed.scss"
+			],
+			[
+				"newsmod",
+				"App/app/news/news.model.js"
+			],
+			[
+				"main.scss",
+				"App/content/sass/intranet/news/_main.scss"
+			],
+			[
+				"ntranet/news/main.html",
+				"App/intranet/news/main.html"
+			],
+			[
+				"notific",
+				"App/app/notification/notification.list.controller.js"
+			],
+			[
+				"notificiationcont",
+				"App/app/notification/notification.base.controller.js"
+			],
+			[
+				"newsmanager.",
+				"App/app/news/news.manager.service.js"
+			],
+			[
+				"news.main.contr",
+				"App/intranet/news/main/news.main.controller.js"
+			],
+			[
+				"intranetnewsmaincontroller",
+				"App/intranet/news/main/news.main.controller.js"
+			],
+			[
+				"intranet/news/main.htl",
+				"App/intranet/news/articles/main.html"
+			],
+			[
+				"tinycache",
+				"App/app/cache/tinycache.service.js"
+			],
+			[
+				"newsview",
+				"App/intranet/news/news.view.controller.js"
+			],
+			[
+				"app/teams/team.module.js",
+				"App/app/teams-and-subscriptions/teams-and-subscriptions.module.js"
+			],
+			[
+				"news.view.controller.js",
+				"App/intranet/news/news.view.controller.js"
+			],
+			[
+				"news.view",
+				"App/test/spec/intranet-news/news.view.controller.spec.js"
+			],
+			[
+				"viewcontroller",
+				"App/intranet/news/news.view.controller.js"
+			],
+			[
+				"app/layout/newsfeed.html",
+				"App/app/layout/newsfeed.html"
+			],
+			[
+				"ntranet/news/main/main.html",
+				"App/intranet/news/main/main.html"
+			],
+			[
+				"alert.scss",
+				"App/content/sass/objects/_alert.scss"
+			],
+			[
+				"intranetnewsarticlescontroller",
+				"App/intranet/news/articles/news.articles.controller.js"
+			],
+			[
+				"userboo",
+				"App/app/main/main.user-bootstrap.js"
+			],
+			[
+				"newsedit",
+				"App/intranet/news/edit/news.edit.controller.js"
+			],
+			[
+				"homecontr",
+				"App/intranet/home/home.controller.js"
+			],
+			[
+				"ance-review/views/objective/edit.html",
+				"App/performance-review/views/objective/edit.html"
+			],
+			[
+				"page-wrapper",
+				"App/content/sass/page/_page-wrapper.scss"
+			],
+			[
+				"hold-",
+				"App/holding-page.html"
+			],
+			[
+				"homecontroll",
+				"App/intranet/home/home.controller.js"
+			],
+			[
+				"newsmanagertrans",
+				"App/app/news/news.manager.transforms.service.js"
+			],
+			[
+				"blobstoragemodel",
+				"App/app/blob-storage/blob-storage.model.js"
+			],
+			[
+				"blobstora",
+				"App/app/blob-storage/blob-storage.constants.js"
+			],
+			[
+				"cycle",
+				"App/app/directives/cycle/cycle.directive.js"
+			],
+			[
+				"newsviewcontr",
+				"App/intranet/news/news.view.controller.js"
+			],
+			[
+				"editcton",
+				"App/intranet/news/edit/news.edit.controller.js"
+			],
+			[
+				"maincon",
+				"App/app/main/main.controller.js"
+			],
+			[
+				"gruntfi",
+				"App/Gruntfile.js"
+			],
+			[
+				"36",
+				"App/content/plugins/image365/dialogs/image365.js"
+			],
+			[
+				"index.h",
+				"App/index.html"
+			],
+			[
+				"performance-review/views/objective/view.html",
+				"App/performance-review/views/objective/view.html"
+			],
+			[
+				"person.controller.spec.js",
+				"App/test/spec/person/person.controller.spec.js"
+			],
+			[
+				"peope-fi",
+				"App/intranet/person/people-finder-person.controller.js"
+			],
+			[
+				"personcontroller",
+				"App/intranet/person/person.edit.controller.js"
+			],
+			[
+				"peoplefinderpersoncontroller",
+				"App/intranet/person/people-finder-person.controller.js"
+			],
+			[
+				"intranet/con",
+				"App/intranet/app.config.js"
+			],
+			[
+				"userservice",
+				"App/app/user/user.service.js"
+			],
+			[
+				"/performance-review.config.route.spec",
+				"App/test/spec/performance-review/performance-review.config.route.spec.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"skill-user-",
+				"&.skill-user-development"
+			]
+		],
+		"width": 709.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

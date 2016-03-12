@@ -1,0 +1,5 @@
+{
+  "source": "./application",
+  "destination": "./public/documentation",
+  "styles": ["../resources/documentation-source/esdoc.css"]
+}
