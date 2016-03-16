@@ -10,6 +10,10 @@ Strongly typed logging.
 
 ## Usage:
 
+Install the library:
+
+    npm install cornerstonelabs-semantic-logging --save
+
 Subclass `SemanticLogger` and add functions for each log message.
 
 Decorate the functions with the log level. The following log levels are supported:
