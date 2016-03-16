@@ -14,6 +14,16 @@ Install the library:
 
     npm install cornerstonelabs-semantic-logging --save
 
+Import it:
+
+    var semanticLogging = require("cornerstonelabs-semantic-logging");
+
+The interesting class is `semanticLogging.SemanticLogger`.
+
+You have five decorators/attributes to define the log level:
+
+    semanticLogging.debug, semanticLogging.verbose, semanticLogging.info, semanticLogging.warn, semanticLogging.error
+
 Subclass `SemanticLogger` and add functions for each log message.
 
 Decorate the functions with the log level. The following log levels are supported:
