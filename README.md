@@ -24,12 +24,14 @@ You have five decorators/attributes to define the log level:
 
     semanticLogging.debug, semanticLogging.verbose, semanticLogging.info, semanticLogging.warn, semanticLogging.error
 
+## This is the bit you need to do:
+
 Subclass `SemanticLogger` and add functions for each log message.
 
 Decorate the functions with the log level. The following log levels are supported:
     @debug @verbose @info @warn @error
 
-Example:
+## Example:
 
     var semanticLogging = require("cornerstonelabs-semantic-logging");
 
