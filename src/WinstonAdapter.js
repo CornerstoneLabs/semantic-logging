@@ -4,12 +4,12 @@ var winston = require("winston");
 // require("winston-logio");
 // /*jshint +W030 */
 
-var logFileName = "/opt/logs/nodejs.log";
-var options = {
-	filename: logFileName
-};
+// var logFileName = "/opt/logs/nodejs.log";
+// var options = {
+// 	filename: logFileName
+// };
 
-winston.add(winston.transports.File, options);
+//winston.add(winston.transports.File, options);
 
 module.exports = {
 	log: function (level, message, meta) {
