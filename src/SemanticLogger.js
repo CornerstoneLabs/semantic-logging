@@ -3,66 +3,62 @@ var webLogger = require("./webLogger.js");
 class SemanticLogger {
 	constructor (request) {
 		this.request = request;
-		this.started = new Date();
+		this.log = new webLogger.WebLogger(this.request);
 	}
-}
 
-function timeOffset (started) {
-	return new Date() - started;
+	dispose () {
+		this.request = null;
+		this.log = null;
+	}
 }
 
 function debugDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
-		let log = new webLogger.WebLogger(this.request);
 		var targetName = target.constructor.name;
 
-		args['latency'] = timeOffset(this.started);
-
-		log.debug(targetName + '.' + name, args);
+		this.log.debug(targetName + '.' + name, args);
 	};
 }
 
 function verboseDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
-		let log = new webLogger.WebLogger(this.request);
 		var targetName = target.constructor.name;
 
-		args['latency'] = timeOffset(this.started);
-
-		log.verbose(targetName + '.' + name, args);
+		this.log.verbose(targetName + '.' + name, args);
 	};
 }
 
 function infoDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
-		let log = new webLogger.WebLogger(this.request);
 		var targetName = target.constructor.name;
 
-		args['latency'] = timeOffset(this.started);
-
-		log.info(targetName + '.' + name, args);
+		this.log.info(targetName + '.' + name, args);
 	};
 }
 
 function warnDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
-		let log = new webLogger.WebLogger(this.request);
 		var targetName = target.constructor.name;
 
-		args['latency'] = timeOffset(this.started);
-
-		log.warn(targetName + '.' + name, args);
+		this.log.warn(targetName + '.' + name, args);
 	};
 }
 
 function errorDecorator (target, name, descriptor) {
 	descriptor.value = function (...args) {
-		let log = new webLogger.WebLogger(this.request);
 		var targetName = target.constructor.name;
 
-		args['latency'] = timeOffset(this.started);
+		this.log.error(targetName + '.' + name, args);
+	};
+}
 
-		log.error(targetName + '.' + name, args);
+function completedDecorator (target, name, descriptor) {
+	descriptor.value = function (...args) {
+		var targetName = target.constructor.name;
+
+		this.log.info(targetName + '.' + name + ' COMPLETED in:' + (new Date() - this.started), args);
+
+		this.dispose();
 	};
 }
 
@@ -72,6 +68,7 @@ module.exports = {
 	verbose: verboseDecorator,
 	info: infoDecorator,
 	warn: warnDecorator,
-	error: errorDecorator
+	error: errorDecorator,
+	completed: completedDecorator
 };
 

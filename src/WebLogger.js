@@ -6,15 +6,18 @@ var _adapter = {
 
 class WebLogger {
 
+	dispose () {
+		this.user = null;
+		this.started = null;
+		this.requestId = null;
+	}
+
 	constructor (request) {
 		this.user = null;
 		this.requestId = null;
+		this.started = new Date();
 
 		if (typeof request !== "undefined") {
-			if (typeof request.user !== "undefined") {
-				this.user = request.user;
-			}
-
 			if ((typeof request.headers !== "undefined") &&
 				(typeof request.headers["request-id"] !== "undefined")) {
 				this.requestId = request.headers["request-id"];
@@ -26,6 +29,10 @@ class WebLogger {
 		if ((typeof this.user !== "undefined") && (this.user !== null)) {
 			meta.user = this.user;
 		}
+	}
+
+	attachTimeOffset (meta) {
+		meta['latency'] = new Date() - this.started;
 	}
 
 	attachRequest (meta) {
@@ -41,6 +48,7 @@ class WebLogger {
 			meta = extra;
 		}
 
+		this.attachTimeOffset(meta);
 		this.attachUser(meta);
 		this.attachRequest(meta);
 
@@ -54,6 +62,7 @@ class WebLogger {
 			meta = extra;
 		}
 
+		this.attachTimeOffset(meta);
 		this.attachUser(meta);
 		this.attachRequest(meta);
 
@@ -67,6 +76,7 @@ class WebLogger {
 			meta = extra;
 		}
 
+		this.attachTimeOffset(meta);
 		this.attachUser(meta);
 		this.attachRequest(meta);
 
@@ -80,6 +90,7 @@ class WebLogger {
 			meta = extra;
 		}
 
+		this.attachTimeOffset(meta);
 		this.attachUser(meta);
 		this.attachRequest(meta);
 
@@ -90,6 +101,7 @@ class WebLogger {
 	error (message, err) {
 		var meta = {};
 
+		this.attachTimeOffset(meta);
 		this.attachUser(meta);
 		this.attachRequest(meta);
 

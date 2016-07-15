@@ -9,6 +9,7 @@ module.exports = {
 	debug: semanticLogger.debug,
 	verbose: semanticLogger.verbose,
 	info: semanticLogger.info,
+	completed: semanticLogger.completed,
 	warn: semanticLogger.warn,
 	error: semanticLogger.error,
 	WinstonAdapter: require("./WinstonAdapter.js")
