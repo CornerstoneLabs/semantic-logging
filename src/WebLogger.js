@@ -8,14 +8,14 @@ class WebLogger {
 
 	dispose () {
 		this.user = null;
-		this.started = null;
+		this.startedDateTime = null;
 		this.requestId = null;
 	}
 
 	constructor (request) {
 		this.user = null;
 		this.requestId = null;
-		this.started = new Date();
+		this.startedDateTime = new Date();
 
 		if (typeof request !== "undefined") {
 			if ((typeof request.headers !== "undefined") &&
@@ -32,13 +32,21 @@ class WebLogger {
 	}
 
 	attachTimeOffset (meta) {
-		meta['latency'] = new Date() - this.started;
+		if (typeof meta === "undefined") {
+			meta = {}
+		}
+
+		meta['latency'] = new Date() - this.startedDateTime;
+
+		return meta;
 	}
 
 	attachRequest (meta) {
 		if (this.requestId !== null) {
 			meta.requestId = this.requestId;
 		}
+
+		return meta;
 	}
 
 	debug (message, extra) {
@@ -71,16 +79,54 @@ class WebLogger {
 
 	info (message, extra) {
 		var meta = {};
+		console.log(message);
 
 		if (typeof extra !== "undefined") {
 			meta = extra;
 		}
 
+		var messageData = {
+		};
+		messageData = this.attachTimeOffset(messageData);
+		messageData = this.attachRequest(messageData);
+		messageData.message = message;
+
+		console.log("here");
+
 		this.attachTimeOffset(meta);
 		this.attachUser(meta);
 		this.attachRequest(meta);
 
-		_adapter.log("info", message, meta);
+		console.log("here2");
+
+		var stringify = JSON.stringify(messageData);
+
+		console.log(stringify);
+
+		_adapter.log("info", stringify, meta);
+	}
+
+	completed (message, extra) {
+		var meta = {};
+
+		if (typeof extra !== "undefined") {
+			meta = extra;
+		}
+
+		var messageData = {
+		};
+		messageData = this.attachTimeOffset(messageData);
+		messageData = this.attachRequest(messageData);
+		messageData.message = message;
+		messageData.COMPLETED = new Date() - this.startedDateTime;
+
+		this.attachTimeOffset(meta);
+		this.attachUser(meta);
+		this.attachRequest(meta);
+
+		var stringify = JSON.stringify(messageData);
+
+		_adapter.log("info", stringify, meta);
 	}
 
 	warn (message, extra) {
