@@ -79,7 +79,6 @@ class WebLogger {
 
 	info (message, extra) {
 		var meta = {};
-		console.log(message);
 
 		if (typeof extra !== "undefined") {
 			meta = extra;
@@ -91,17 +90,11 @@ class WebLogger {
 		messageData = this.attachRequest(messageData);
 		messageData.message = message;
 
-		console.log("here");
-
 		this.attachTimeOffset(meta);
 		this.attachUser(meta);
 		this.attachRequest(meta);
 
-		console.log("here2");
-
 		var stringify = JSON.stringify(messageData);
-
-		console.log(stringify);
 
 		_adapter.log("info", stringify, meta);
 	}
