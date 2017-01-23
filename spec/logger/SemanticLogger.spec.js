@@ -10,8 +10,8 @@ describe("SemanticLogger", () => {
 		main: 'index.js'
 	});	
 
-	var webLogger = require("src/webLogger");
-	var baseLogger = require("src/semanticLogger");
+	var webLogger = require("src/webLogger.js");
+	var baseLogger = require("src/semanticLogger.js");
 	var info = baseLogger.info;
 	var debug = baseLogger.debug;
 	var warn = baseLogger.warn;
