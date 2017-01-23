@@ -1,14 +1,14 @@
 {
   "name": "cornerstonelabs-semantic-logging",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "private": false,
   "dependencies": {
+    "jasmine-es6": "^0.1.4",
     "winston": "^2.1.1",
-    "winston-loggly": "^1.1.0",
+    "winston-loggly": "^1.3.1",
     "winston-logio": "git+https://github.com/jaakkos/winston-logio.git",
     "winston-logstash-udp": "^0.1.1",
-    "winston-mongodb": "^1.1.2",
-    "jasmine-es6": "0.1.4"
+    "winston-mongodb": "^1.1.2"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
@@ -23,7 +23,8 @@
     "jasmine-spec-reporter": "^2.4.0",
     "jshint-stylish": "^2.1.0",
     "karma": "^0.13.9",
-    "mocha": "^2.4.5"
+    "mocha": "^2.4.5",
+    "snyk": "^1.24.4"
   },
   "engines": {
     "node": "==5.8.0",
@@ -31,7 +32,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "./node_modules/jasmine-es6/bin/jasmine.js --verbose",
+    "test": "snyk test && ./node_modules/jasmine-es6/bin/jasmine.js --verbose",
     "dev": "node app.js",
     "prepublish": "babel src --out-dir lib"
   },

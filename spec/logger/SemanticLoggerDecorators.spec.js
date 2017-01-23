@@ -297,7 +297,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisInfo();
 
 				expect(checkLevel).toBe("info");
-				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisInfo");
+				expect(checkFunctionName).toBe('{"latency":0,"message":"TestLoggerDefinition.testThisInfo"}');
 			});
 
 			it("should log additional info data", () => {
@@ -323,7 +323,7 @@ describe("SemanticLogger", () => {
 				loggerInstance.testThisInfo("info 0", "info 1");
 
 				expect(checkLevel).toBe("info");
-				expect(checkFunctionName).toBe("TestLoggerDefinition.testThisInfo");
+				expect(checkFunctionName).toBe('{"latency":0,"message":"TestLoggerDefinition.testThisInfo"}');
 				expect(checkMeta[0]).toBe("info 0" );
 				expect(checkMeta[1]).toBe("info 1" );
 			});

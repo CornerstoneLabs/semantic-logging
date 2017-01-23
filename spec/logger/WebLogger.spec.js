@@ -28,16 +28,6 @@ describe("WebLogger", function () {
 	});
 
 	describe("constructor", function () {
-		it("Should attach request.user if it exists ", function () {
-			var request = {
-				user: {}
-			};
-
-			var newLogger = new webLogger.WebLogger(request);
-
-			assert.equal(newLogger.user, request.user);
-		});
-
 		it("Should attach headers.request-id if it exists ", function () {
 			var request = {
 				headers: {
@@ -104,7 +94,7 @@ describe("WebLogger", function () {
 			newLogger.info("testing info");
 
 			assert.equal(checkLevel, "info");
-			assert.equal(checkFunctionName, "testing info");
+			assert.equal(checkFunctionName, '{"latency":0,"message":"testing info"}');
 		});
 	});
 
