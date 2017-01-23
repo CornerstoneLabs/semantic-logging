@@ -32,7 +32,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "snyk test && ./node_modules/jasmine-es6/bin/jasmine.js --verbose",
+    "test": "./node_modules/jasmine-es6/bin/jasmine.js --verbose",
     "dev": "node app.js",
     "prepublish": "babel src --out-dir lib"
   },
