@@ -1,6 +1,6 @@
 {
   "name": "cornerstonelabs-semantic-logging",
-  "version": "0.0.18",
+  "version": "0.0.20",
   "private": false,
   "dependencies": {
     "jasmine-es6": "^0.4.0",
