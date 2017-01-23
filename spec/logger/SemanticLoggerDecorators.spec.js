@@ -1,6 +1,17 @@
 describe("SemanticLogger", () => {
-	var webLogger = require("../../src/webLogger.js");
-	var baseLogger = require("../../src/semanticLogger.js");
+        var path = require("path");
+        console.log("CWD: ", path.resolve('.'));
+        var lib = path.resolve('./lib');
+        console.log('SRC', lib);
+
+        require('register-module')({
+                name: 'lib',
+                path: lib,
+                main: 'index.js'
+        });
+
+	var webLogger = require("lib/webLogger.js");
+	var baseLogger = require("lib/semanticLogger.js");
 	var info = baseLogger.info;
 	var debug = baseLogger.debug;
 	var warn = baseLogger.warn;
