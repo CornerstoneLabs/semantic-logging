@@ -33,7 +33,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "test": "./node_modules/jasmine-es6/bin/jasmine.js --verbose",
+    "test": "babel src --out-dir lib && ./node_modules/jasmine-es6/bin/jasmine.js --verbose",
     "dev": "node app.js",
     "prepublish": "babel src --out-dir lib"
   },
