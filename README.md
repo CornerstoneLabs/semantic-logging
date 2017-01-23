@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/CornerstoneLabs/semantic-logging.svg?branch=master)](https://travis-ci.org/CornerstoneLabs/semantic-logging)
+
 # Semantic Logging for NodeJS.
 
 Strongly typed logging.
