@@ -24,6 +24,7 @@
     "jshint-stylish": "^2.1.0",
     "karma": "^1.4.0",
     "mocha": "^3.2.0",
+    "register-module": "0.0.2",
     "snyk": "^1.24.4"
   },
   "engines": {

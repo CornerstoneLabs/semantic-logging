@@ -4,10 +4,14 @@ describe("SemanticLogger", () => {
 	var src = path.resolve('./src');
 	console.log('SRC', src);
 
-	var test = require("../test.js");
-	console.log(test);
-	var webLogger = require("../../src/webLogger.js");
-	var baseLogger = require("../../src/semanticLogger.js");
+	require('register-module')({
+		name: 'src',
+		path: src,
+		main: 'index.js'
+	});	
+
+	var webLogger = require("src/webLogger");
+	var baseLogger = require("src/semanticLogger");
 	var info = baseLogger.info;
 	var debug = baseLogger.debug;
 	var warn = baseLogger.warn;
