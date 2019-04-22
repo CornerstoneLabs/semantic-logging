@@ -8,7 +8,8 @@
     "winston-loggly": "^1.3.1",
     "winston-logio": "git+https://github.com/jaakkos/winston-logio.git",
     "winston-logstash-udp": "^0.2.1",
-    "winston-mongodb": "^2.0.7"
+    "winston-mongodb": "^2.0.7",
+    "snyk": "^1.153.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
@@ -24,8 +25,7 @@
     "jshint-stylish": "^2.1.0",
     "karma": "^1.4.0",
     "mocha": "^3.2.0",
-    "register-module": "0.0.2",
-    "snyk": "^1.24.4"
+    "register-module": "0.0.2"
   },
   "engines": {
     "node": "==7.4.0",
@@ -35,7 +35,8 @@
     "start": "node app.js",
     "test": "babel src --out-dir lib && ./node_modules/jasmine-es6/bin/jasmine.js --verbose",
     "dev": "node app.js",
-    "prepublish": "babel src --out-dir lib"
+    "prepublish": "npm run snyk-protect; babel src --out-dir lib",
+    "snyk-protect": "snyk protect"
   },
   "main": "lib/index.js",
   "apidoc": {
@@ -45,5 +46,6 @@
       "withCompare": false
     },
     "url": "https://github.com/CornerstoneLabs/semantic-logging"
-  }
+  },
+  "snyk": true
 }
