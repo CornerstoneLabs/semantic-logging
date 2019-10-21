@@ -8,7 +8,7 @@
     "winston-loggly": "^1.3.1",
     "winston-logio": "git+https://github.com/jaakkos/winston-logio.git",
     "winston-logstash-udp": "^0.2.1",
-    "winston-mongodb": "^2.0.7"
+    "winston-mongodb": "^4.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
