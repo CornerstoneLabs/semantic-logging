@@ -4,7 +4,7 @@
   "private": false,
   "dependencies": {
     "jasmine-es6": "^0.4.0",
-    "winston": "^2.1.1",
+    "winston": "^3.3.0",
     "winston-loggly": "^1.3.1",
     "winston-logio": "git+https://github.com/jaakkos/winston-logio.git",
     "winston-logstash-udp": "^0.2.1",
